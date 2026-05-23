@@ -23,13 +23,20 @@ I’m a DevOps Engineer focused on AWS cloud infrastructure, automation, and CI/
 
 ---
 
-### 💡 Notable Projects
+### 🏆 Key DevOps Achievements
 
-- Automated deployments for multiple repositories using a unified CircleCI pipeline
-- Managed production deployments using PM2 on single servers
-- AWS VPN setup and infrastructure automation
-- Logging and monitoring solutions configured using OpenSearch and Datadog
-- Improved server security and SSH protection with tools like Fail2Ban
+- Designed and managed AWS infrastructure using Terraform: VPCs, subnets, ECS clusters, ALB, and secure networking for production workloads
+- Automated provisioning and configuration across dev, stage, and prod environments with parameterized .tfvars and YAML-driven pipelines
+- Built CI/CD workflows for containerized microservices using GitLab Container Registry and robust automated deployment scripts
+- Enabled auto-scaling and advanced monitoring for ECS services, integrating CloudWatch alarms, SNS notifications, and Datadog for proactive incident response
+- Managed secrets and sensitive configuration via AWS Secrets Manager, emphasizing compliance and best security practices
+- Optimized AWS costs by leveraging Fargate Spot and right-sizing compute/memory resources for ECS tasks
+- Led infrastructure tagging and resource management for accurate billing, auditing, and traceability
+- Authored detailed documentation and runbooks for deployment, monitoring, and troubleshooting
+
+- Developed automation scripts (Bash, TypeScript) for environment setup, deployment, and configuration, reducing manual intervention and errors
+- Automated generation of Terraform variable files/environment configs from YAML sources for consistent infrastructure changes
+- Improved deployment reliability with scripted checks, rollbacks, and health verifications in the CI/CD pipeline
 
 ---
 
